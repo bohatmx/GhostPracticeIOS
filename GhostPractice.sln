@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GhostPractice", "GhostPractice\GhostPractice.csproj", "{AD1E015E-0119-438B-BF7D-AF6B92D0AD2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPMobilePad", "GPMobilePad\GPMobilePad.csproj", "{CFBA9349-85AB-412E-8603-FD8C92EDEF36}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "GhostPracticeLibrary", "GhostPracticeLibrary\GhostPracticeLibrary.shproj", "{CE8B2D02-5F4B-4732-8307-3D6F8514AA73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Distribution|iPhone = Distribution|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+		AppStoreKorbitec|iPhone = AppStoreKorbitec|iPhone
+		DistributionKorbitec|iPhone = DistributionKorbitec|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD1E015E-0119-438B-BF7D-AF6B92D0AD2E}.AppStoreKorbitec|iPhone.ActiveCfg = AppStoreKorbitec|iPhone
+		{AD1E015E-0119-438B-BF7D-AF6B92D0AD2E}.AppStoreKorbitec|iPhone.Build.0 = AppStoreKorbitec|iPhone
+		{AD1E015E-0119-438B-BF7D-AF6B92D0AD2E}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{AD1E015E-0119-438B-BF7D-AF6B92D0AD2E}.Debug|iPhone.Build.0 = Debug|iPhone
+		{AD1E015E-0119-438B-BF7D-AF6B92D0AD2E}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{AD1E015E-0119-438B-BF7D-AF6B92D0AD2E}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{AD1E015E-0119-438B-BF7D-AF6B92D0AD2E}.Distribution|iPhone.ActiveCfg = Distribution|iPhone
+		{AD1E015E-0119-438B-BF7D-AF6B92D0AD2E}.Distribution|iPhone.Build.0 = Distribution|iPhone
+		{AD1E015E-0119-438B-BF7D-AF6B92D0AD2E}.DistributionKorbitec|iPhone.ActiveCfg = DistributionKorbitec|iPhone
+		{AD1E015E-0119-438B-BF7D-AF6B92D0AD2E}.DistributionKorbitec|iPhone.Build.0 = DistributionKorbitec|iPhone
+		{AD1E015E-0119-438B-BF7D-AF6B92D0AD2E}.Release|iPhone.ActiveCfg = Release|iPhone
+		{AD1E015E-0119-438B-BF7D-AF6B92D0AD2E}.Release|iPhone.Build.0 = Release|iPhone
+		{AD1E015E-0119-438B-BF7D-AF6B92D0AD2E}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{AD1E015E-0119-438B-BF7D-AF6B92D0AD2E}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{CFBA9349-85AB-412E-8603-FD8C92EDEF36}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{CFBA9349-85AB-412E-8603-FD8C92EDEF36}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{CFBA9349-85AB-412E-8603-FD8C92EDEF36}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{CFBA9349-85AB-412E-8603-FD8C92EDEF36}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{CFBA9349-85AB-412E-8603-FD8C92EDEF36}.AppStoreKorbitec|iPhone.ActiveCfg = AppStoreKorbitec|iPhone
+		{CFBA9349-85AB-412E-8603-FD8C92EDEF36}.AppStoreKorbitec|iPhone.Build.0 = AppStoreKorbitec|iPhone
+		{CFBA9349-85AB-412E-8603-FD8C92EDEF36}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{CFBA9349-85AB-412E-8603-FD8C92EDEF36}.Debug|iPhone.Build.0 = Debug|iPhone
+		{CFBA9349-85AB-412E-8603-FD8C92EDEF36}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{CFBA9349-85AB-412E-8603-FD8C92EDEF36}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{CFBA9349-85AB-412E-8603-FD8C92EDEF36}.Distribution|iPhone.ActiveCfg = Debug|iPhone
+		{CFBA9349-85AB-412E-8603-FD8C92EDEF36}.Distribution|iPhone.Build.0 = Debug|iPhone
+		{CFBA9349-85AB-412E-8603-FD8C92EDEF36}.DistributionKorbitec|iPhone.ActiveCfg = DistributionKorbitec|iPhone
+		{CFBA9349-85AB-412E-8603-FD8C92EDEF36}.DistributionKorbitec|iPhone.Build.0 = DistributionKorbitec|iPhone
+		{CFBA9349-85AB-412E-8603-FD8C92EDEF36}.Release|iPhone.ActiveCfg = Release|iPhone
+		{CFBA9349-85AB-412E-8603-FD8C92EDEF36}.Release|iPhone.Build.0 = Release|iPhone
+		{CFBA9349-85AB-412E-8603-FD8C92EDEF36}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{CFBA9349-85AB-412E-8603-FD8C92EDEF36}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.VersionControlPolicy = $1
+		$1.inheritsSet = Mono
+	EndGlobalSection
+EndGlobal
