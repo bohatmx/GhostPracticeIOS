@@ -7,6 +7,17 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPMobilePad", "GPMobilePad\
 EndProject
 Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "GhostPracticeLibrary", "GhostPracticeLibrary\GhostPracticeLibrary.shproj", "{CE8B2D02-5F4B-4732-8307-3D6F8514AA73}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Screenshots", "Screenshots", "{B08DD633-726A-478D-9941-1EA56E85D384}"
+	ProjectSection(SolutionItems) = preProject
+		d1.png = d1.png
+		d2.png = d2.png
+		d3.png = d3.png
+		d4.png = d4.png
+		d5.png = d5.png
+		d6.png = d6.png
+		d7.png = d7.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|iPhoneSimulator = Debug|iPhoneSimulator
@@ -52,6 +63,8 @@ Global
 		{CFBA9349-85AB-412E-8603-FD8C92EDEF36}.Release|iPhone.Build.0 = Release|iPhone
 		{CFBA9349-85AB-412E-8603-FD8C92EDEF36}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
 		{CFBA9349-85AB-412E-8603-FD8C92EDEF36}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		Policies = $0
